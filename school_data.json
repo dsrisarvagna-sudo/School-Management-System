@@ -1,0 +1,20 @@
+{
+    "students": [
+        {
+            "name": "spidy",
+            "age": 19,
+            "email": "dsrisarvagnagna@gmail.com",
+            "roll_no": "56",
+            "grades": {}
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Dr.sireesha",
+            "age": 45,
+            "email": "sireesha@gmail.com",
+            "subject": "python",
+            "emp_id": "6565"
+        }
+    ]
+}
